@@ -1,0 +1,23 @@
+{
+  "name": "avataar-backend",
+  "version": "1.0.0",
+  "description": "Backend for Avataar website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avtaarlpu/avataar-web-backend.git"
+  },
+  "author": "Bishwajyoti Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avtaarlpu/avataar-web-backend/issues"
+  },
+  "homepage": "https://github.com/avtaarlpu/avataar-web-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
